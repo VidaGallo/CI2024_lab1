@@ -5,4 +5,4 @@ The code implements an optimization algorithm to solve the Set Cover Problem. <b
 
   <br>
   <br>
-Ideas are taken from lectures and discussions with my classmate Gabriele Pirilli (https://github.com/Gpir0).
+Ideas are taken from lectures, discussions with my classmate Gabriele Pirilli (https://github.com/Gpir0) and his help. 
